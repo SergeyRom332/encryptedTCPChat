@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|a:\\programming\\c#\\education\\projects\\encryptedchat\\encryptedchat\\models\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\models\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\models\\encription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\models\\encription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\forms\\setkeyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\forms\\setkeyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\models\\messageheandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\models\\messageheandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\models\\contactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\models\\contactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\models\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\models\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\forms\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\forms\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\encryptedchat\\forms\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFEA9591-0E9F-4F0F-95C3-3177D469E816}|EncryptedChat\\EncryptedChat.csproj|solutionrelative:encryptedchat\\forms\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SetKeyForm.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Forms\\SetKeyForm.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Forms\\SetKeyForm.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Forms\\SetKeyForm.cs",
+              "RelativeToolTip": "EncryptedChat\\Forms\\SetKeyForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:08:19.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddContactForm.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Forms\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Forms\\AddContactForm.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Forms\\AddContactForm.cs",
+              "RelativeToolTip": "EncryptedChat\\Forms\\AddContactForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:52:31.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddContactForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Forms\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Forms\\AddContactForm.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Forms\\AddContactForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "EncryptedChat\\Forms\\AddContactForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:49:01.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Models\\ChatMessage.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "EncryptedChat\\Models\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:30:42.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\IMessage.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Models\\IMessage.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\IMessage.cs",
+              "RelativeToolTip": "EncryptedChat\\Models\\IMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:27:45.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Models\\Contact.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\Contact.cs",
+              "RelativeToolTip": "EncryptedChat\\Models\\Contact.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:22:05.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encription.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\Encription.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Models\\Encription.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\Encription.cs",
+              "RelativeToolTip": "EncryptedChat\\Models\\Encription.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwD0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:02:40.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageHeandler.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\MessageHeandler.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Models\\MessageHeandler.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\MessageHeandler.cs",
+              "RelativeToolTip": "EncryptedChat\\Models\\MessageHeandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:03:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\ChatServer.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Models\\ChatServer.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\ChatServer.cs",
+              "RelativeToolTip": "EncryptedChat\\Models\\ChatServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:33:13.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\MainForm.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\MainForm.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\MainForm.cs",
+              "RelativeToolTip": "EncryptedChat\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:42:54.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\MainForm.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\MainForm.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "EncryptedChat\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:04:03.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactsService.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\ContactsService.cs",
+              "RelativeDocumentMoniker": "EncryptedChat\\Models\\ContactsService.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\EncryptedChat\\EncryptedChat\\Models\\ContactsService.cs",
+              "RelativeToolTip": "EncryptedChat\\Models\\ContactsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:22:52.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
